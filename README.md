@@ -1,6 +1,8 @@
-# unit_tools
-some tools for tests
+# unit
+For simple unit test
 
-## unit *DOME
-`$ unit [programming_language]` open unit.* with vim<br>
-`$ unit test` local/working_dir/unit.*
+## Usage
+```
+$ unit [language] open unit.*
+$ unit test local/working_dir/unit.*
+```
